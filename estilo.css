@@ -1,0 +1,18 @@
+H1{
+background: salmon;
+color:white;
+margin:30px;
+}
+H3 {
+background:salmon;
+color:white;
+float: right;
+width: 30%;
+margin-left:10px;
+}
+img {
+widht:100px;
+float:left;
+margin-right:6px;
+margin-bottom:6px;
+}
